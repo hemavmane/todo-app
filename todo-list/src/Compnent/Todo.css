@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-color: lightseagreen;
+    margin-top: 50px;
+}
+
+.input1{
+    border: none;
+    box-shadow: 7px 7px 7px gray;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+   
+}
+
+.btn{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+   border: none;
+  
+}
+
+.btn1{
+    background-color: green;
+    margin: 1px;
+    color: white;
+}
+
+.btn2{
+    background-color: red;
+    margin: 2px;
+    color: white;
+}
+
+.container{
+    position: absolute;
+    left: 30%;
+    margin: 30px;
+    width: fit-content;
+    background-color:gainsboro;
+    box-shadow: 5px 10px 5px gray;
+}
+
+.input{
+    border: none;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+}
+
+.innercontainer{
+    margin: 30px;
+}
